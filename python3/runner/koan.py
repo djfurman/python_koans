@@ -9,7 +9,7 @@ import re
 
 __all__ = [ "__", "___", "____", "_____", "Koan" ]
 
-__ = "-=> FILL ME IN! <=-"
+__ = True
 
 class ___(Exception):
     pass
